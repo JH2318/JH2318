@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Jacob
+My name is Jacob.
 I am currently enrolled in college for cyber security.

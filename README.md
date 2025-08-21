@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 My name is Jacob.
 I am currently enrolled in college for cyber security.
+I am ready to further advance my knowledge of coding with this app.
+

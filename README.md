@@ -20,4 +20,4 @@ I am new to coding, so This is my first ever coding class.
 I am ready to further advance my knowledge of coding with this app!
 I am hoping to eventually get the hang of coding with this class.
 You can reach me @a02625404@alabama.edu
-Fun Fact: I have worked alot with computers and cellphones, but have not experienced coding yet.
+Fun Fact: I usually work alot with computers and cellphones, but have not experienced coding yet.

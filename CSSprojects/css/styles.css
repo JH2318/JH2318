@@ -1,0 +1,56 @@
+header, 
+nav, 
+footer {
+    background-color: black;
+    /* black background ^^ */
+    color: rgb(160, 160, 160);
+    /* white text so it's readable ^^ */
+    text-align: center;
+    /* centers text */
+    width: 100%;
+    /* ensures background stretches the screen */
+}
+body {
+    background-color: #F54927;
+    /* orang-ish background */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* different fonts */
+    margin: 0;
+    padding: 0; }
+
+
+section {
+    border: 1px #272EF5;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background: #9b9393;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+nav a {
+color: #000000; /* gray navigation links */
+text-decoration:underline
+margin 0 15px;
+} 
+
+button {
+    padding: 10px 20px;
+    border: none;
+    font-size: 16 px;
+}
+.btn-hover:hover {
+    background-color: darkblue;
+
+}
+
+.btn-glow {
+    background: purple;
+    color: white;
+    border-radius: 5px;
+    transition: box-shadow 0.3s;
+}
+
+.btn-glow:hover {
+    box-shadow: 0 0 10px purple;
+}
